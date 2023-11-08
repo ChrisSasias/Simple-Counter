@@ -9,7 +9,7 @@
 
 
     font-size: 30px;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
     border: solid rgb(200, 200, 200) 1px;
     border-radius: 10px;
     background-color: rgb(134, 134, 134);
@@ -17,3 +17,4 @@
     margin: 25px;
     padding: 25px;
 }
+
